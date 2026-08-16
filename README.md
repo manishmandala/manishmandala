@@ -13,11 +13,6 @@ I build small, working projects end-to-end — hardware, software, or both.
   a candidate profile, and presents them in a local Streamlit dashboard.
   Python, SQLite, Streamlit.
 
-- **[what-are-we-eating](https://github.com/manishmandala07-ux/what-are-we-eating)**
-  — A fast, low-friction app for a small group to decide where to eat right
-  now: swipe on cuisines, then narrow to restaurants, solo or in a shared
-  group session. React (Vite) frontend, Express/WebSocket backend.
-
 - **[hand-tracking-laser-turret](https://github.com/manishmandala07-ux/hand-tracking-laser-turret)**
   — A pan/tilt laser turret that follows your hand. Webcam + MediaPipe hand
   tracking on the PC streams commands to an Arduino driving two servos,

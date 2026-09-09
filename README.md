@@ -1,6 +1,6 @@
 # Hi, I'm Manish Mandala
 
-Mechanical Engineering student at Ohio State University (Class of 2029),
+Mechanical Engineering student at Ohio State University,
 interested in mechanical/design/manufacturing engineering, product &
 program management, technical/management consulting, and robotics/AI.
 I build small, working projects end-to-end — hardware, software, or both.

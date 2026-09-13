@@ -1,43 +1,50 @@
 # Hi, I'm Manish Mandala
 
-Mechanical Engineering student at Ohio State University,
-interested in mechanical/design/manufacturing engineering, product &
-program management, technical/management consulting, and robotics/AI.
-I build small, working projects end-to-end - hardware, software, or both.
+## I build intelligent physical systems.
+
+I'm a mechanical engineering student at The Ohio State University working at the intersection of robotics, simulation, embedded hardware, and applied AI.
+
+I enjoy turning ideas into tested, working systems—from computer-vision hardware to AI automation and engineering simulation.
 
 ## Portfolio
 
-[manishmandala.vercel.app](https://manishmandala.vercel.app/)
+Explore my projects and experience at **[manishmandala.vercel.app](https://manishmandala.vercel.app/)**.
 
-## Projects
+## Featured Projects
 
-- **[hand-tracking-laser-turret](https://github.com/manishmandala/hand-tracking-laser-turret)**
-  - A pan/tilt laser turret that follows your hand. Webcam + MediaPipe hand
-  tracking on the PC streams commands to an Arduino driving two servos,
-  with hard safety limits and a serial-loss failsafe.
+- **[Vision-Guided Laser Tracking System](https://github.com/manishmandala/hand-tracking-laser-turret)**
+  - Built a two-axis pan-and-tilt system using Python, OpenCV, MediaPipe, Arduino, and custom hardware. The system tracks a user's hand in real time and translates its position into servo commands with safety limits and serial-loss protection.
 
-- **[basketball-shot-analyzer](https://github.com/manishmandala/basketball-shot-analyzer)**
-  - Real-time basketball shooting form analysis from a webcam feed using
-  pose estimation, scoring elbow angle, knee bend, stance width, and
-  release position live on screen.
+- **[AI Receptionist](https://github.com/manishmandala/ai-receptionist)**
+  - Developed six automated workflows using Claude, n8n, Supabase, Gmail, and Telegram to triage messages, generate responses, and coordinate real-estate transactions. Tested across 500+ emails with approximately 97.6% correct behavior and response times under 15 seconds.
 
-- **[ai-receptionist](https://github.com/manishmandala/ai-receptionist)**
-  - An AI-powered virtual receptionist for a real estate agent's inbox and
-  client relationships: n8n workflows using Claude, Gmail, Supabase, and
-  Telegram to triage email, draft replies, and coordinate transactions.
+- **[Internship Intelligence Agent](https://github.com/manishmandala/internship-intelligence-agent)**
+  - Built a Python system that collects internship postings from public company career APIs, scores opportunities against a candidate profile, and displays the results in a Streamlit dashboard.
 
-- **[internship-intelligence-agent](https://github.com/manishmandala/internship-intelligence-agent)**
-  - Collects internship postings from public company career APIs
-  (Greenhouse, Lever, Ashby, Workday, Amazon), scores them for fit against
-  a candidate profile, and presents them in a local Streamlit dashboard.
-  Python, SQLite, Streamlit.
+- **[Basketball Shot Analyzer](https://github.com/manishmandala/basketball-shot-analyzer)**
+  - Created a real-time computer-vision tool that uses pose estimation to evaluate elbow angle, knee bend, stance width, and release position during a basketball shot.
 
-### Also built
+### Additional Projects
 
-- **[combination-lock](https://github.com/manishmandala/combination-lock)** - a mechanical combination lock designed in OnShape for Ohio State's First Year Engineering program.
-- **[multi-blade-knife](https://github.com/manishmandala/multi-blade-knife)** - a multi-blade kitchen knife, designed and prototyped for the same program.
-- **[quant-finance-scripts](https://github.com/manishmandala/quant-finance-scripts)** - portfolio theory scripts (efficient frontier, risk/correlation analysis) for a finance club.
+- **[Combination Lock](https://github.com/manishmandala/combination-lock)**  
+  Designed a functional mechanical combination lock in Onshape for Ohio State's First-Year Engineering program.
+
+- **[Multi-Blade Knife](https://github.com/manishmandala/multi-blade-knife)**  
+  Designed and prototyped a multi-blade kitchen knife through an iterative engineering design process.
+
+- **[Quantitative Finance Scripts](https://github.com/manishmandala/quant-finance-scripts)**  
+  Developed portfolio-analysis scripts covering efficient-frontier simulation, risk, returns, and asset correlation.
+
+## Technologies
+
+**Languages:** Python, C++, Java, TypeScript  
+**Engineering:** Computer Vision, Embedded Systems, CAD, Finite-Element Simulation  
+**Tools:** OpenCV, MediaPipe, Arduino, React, n8n, Supabase, meshio, ParaView, Git
 
 ## Contact
 
-- Email: [manish.mandala07@gmail.com](mailto:manish.mandala07@gmail.com)
+- **Portfolio:** [manishmandala.vercel.app](https://manishmandala.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/manish-mandala](https://www.linkedin.com/in/manish-mandala)
+- **Email:** [mandala.15@osu.edu](mailto:mandala.15@osu.edu)
+
+I'm currently exploring Summer 2027 opportunities involving technology, robotics, autonomous systems, software, simulation, and intelligent hardware.

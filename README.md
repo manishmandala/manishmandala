@@ -7,7 +7,7 @@ I build small, working projects end-to-end - hardware, software, or both.
 
 ## Portfolio
 
-[manishmandala.github.io/portfolio](https://manishmandala.github.io/portfolio/)
+[manishmandala.vercel.app](https://manishmandala.vercel.app/)
 
 ## Projects
 
